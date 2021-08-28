@@ -23,7 +23,7 @@ github_username:  truejulosdu13
 # flickr_username: jekyll
 instagram_username: julesschleinitz
 linkedin_username: jules-schleinitz-90a5a1161
-strava_username: 27486196
+# strava_username: 27486196
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -32,6 +32,9 @@ strava_username: 27486196
 
 # Additional icon links
 additional_links:
+- title: strava
+  icon: fas fa-strav
+  url: https://www.strava.com/athletes/27486196
 - title: chimie.ens.fr/grimaud/
   icon: fas fa-globe
   url: https://www.chimie.ens.fr/grimaud/
