@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jules and I'm PhD Student in Chemistry. My work is mostly about understanding chemical reaction pathways with variate tools. Among them UV-visible, IR, RPE, DRX, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
+  Hi, my name's Jules and I'm PhD Student in Chemistry. I try to understand chemical reaction pathways with variate tools. Among them UV-visible, IR, RPE, DRX, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
 
 content:
   - title: Projects # Title for the section
