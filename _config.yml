@@ -33,7 +33,7 @@ linkedin_username: jules-schleinitz-90a5a1161
 # Additional icon links
 additional_links:
 - title: strava
-  icon: fas fa-strava
+  icon: fab fa-strava
   url: https://www.strava.com/athletes/27486196
 - title: chimie.ens.fr/grimaud/
   icon: fas fa-globe
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/bike_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jules and I'm a PhD Student in Chemistry. I try to understand chemical reaction pathways with variate tools. Among them UV-visible, IR, RPE, DRX, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
 
