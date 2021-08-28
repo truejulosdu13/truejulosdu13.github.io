@@ -23,6 +23,7 @@ github_username:  truejulosdu13
 # flickr_username: jekyll
 instagram_username: julesschleinitz
 linkedin_username: jules-schleinitz-90a5a1161
+strava_username: 27486196
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -31,9 +32,9 @@ linkedin_username: jules-schleinitz-90a5a1161
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: chimie.ens.fr/grimaud/
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.chimie.ens.fr/grimaud/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,15 +49,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jules and I'm PhD Student in Chemistry. I try to understand chemical reaction pathways with variate tools. Among them UV-visible, IR, RPE, DRX, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
+  Hi, my name's Jules and I'm a PhD Student in Chemistry. I try to understand chemical reaction pathways with variate tools. Among them UV-visible, IR, RPE, DRX, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
 
 content:
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Organic Chemistry Lessons
+        link: github.com/sp
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
