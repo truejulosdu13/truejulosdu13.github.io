@@ -33,7 +33,7 @@ linkedin_username: jules-schleinitz-90a5a1161
 # Additional icon links
 additional_links:
 - title: strava
-  icon: fas fa-strav
+  icon: fas fa-strava
   url: https://www.strava.com/athletes/27486196
 - title: chimie.ens.fr/grimaud/
   icon: fas fa-globe
