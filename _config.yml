@@ -76,7 +76,6 @@ content:
           The lessons are written in French for students applying to the [Agrégation externe de physique chimie option physique](https://agregation-physique.org/).
           
           Cours :
-           -
            - [Nomenclature en chimie organique](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf)
            - [Stéréochimie](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours2.pdf)
            - [Substitution nucléophile bimoléculaire - **S<sub>N</sub>2**](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours3.pdf)
@@ -178,7 +177,7 @@ content:
       I am from Marseille and no doubt that it is the best city in the World! Of course, I support the Olympique de Marseille soccer team.
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![La bonne mère](images/bonne_mere.png)
 
 # Footer
 footer_show_references: true
