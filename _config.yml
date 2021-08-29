@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/bike_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jules and I'm a PhD Student in Chemistry working at [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris under the supervision of [Laurence Grimaud](chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/) . I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them RXD, UV-visible, IR, EPR, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
+  Hi, my name is Jules and I'm a PhD Student in Chemistry working at [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris under the supervision of [Laurence Grimaud](chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/) . I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them <mark>XRD</mark>, UV-visible, IR, EPR, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
 
 content:
   - title: Education # Title for the section
