@@ -61,7 +61,7 @@ content:
       - layout: top-middle
         title: Organic Chemistry Lessons
         link: https://truejulosdu13.github.io/organic_chemistry_lessons
-        # link_text: Project Website
+        link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
