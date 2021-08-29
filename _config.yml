@@ -114,7 +114,11 @@ content:
 #        quote: >
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          The lessons are written in French for students applying to the [Agrégation externe de physique chimie option physique](https://agregation-physique.org/).
+          Tutorials and correction :
+          -
+          -
+          
+          Some references I highly recommand for beginners and more in electrochemistry :
 
                       
   - title: Projects # Title for the section
@@ -148,7 +152,7 @@ content:
           *ChemPhysChem*, **2021**, 22, 1237. [DOI: 10.1002/cphc.202100108](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202100108), [PDF]()
           
           
-          [1] Bis-Cyclooctatetraenyl Thulium(II): Highly Reducing Lanthanide Sandwich Single-Molecule Magnets
+          [1] **Bis-Cyclooctatetraenyl Thulium(II): Highly Reducing Lanthanide Sandwich Single-Molecule Magnets**
           
           J. Moutet, **J. Schleinitz**, L. La Droitte, M. Tricoire, F. Pointillart, F. Gendron, T. Simler, C. Clavaguéra, B. Le Guennic, O. Cador, G. Nocton
           
