@@ -100,7 +100,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: text
        # title: Harvard University
        # caption: 2010 - 2013
        # sub_title: BSc Computer Science
