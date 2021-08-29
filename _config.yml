@@ -73,15 +73,17 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
            L'ensemble des cours de chimie organique traités pendant l'année sont donnés ci-dessous :
-           [1] [Nomenclature en Chimie Organique](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf)
-           [2] [Stéréochimie](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours2.pdf)
-           [3]
+           - [Nomenclature en Chimie Organique](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf)
+           - [Stéréochimie](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours2.pdf)
+           - 
            
            Exercices et Corrigés
-           [1]
-           [2]
+           - 
+           - 
            
            Devoir Maison et Corrigés
+           -
+           -
            
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -108,11 +110,15 @@ content:
        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           [2] Metal-Free Deoxygenation of Amine N-Oxides: Synthetic and Mechanistic Studies
+          
           W. Lecroq, J. Schleinitz, M. Billoue, A. Perfetto, A-C. Gaumont, J. Lalevée, I. Ciofini, L. Grimaud, S. Lakhdar
+          
           Chemphyschem. 2021 Jun 16;22(12):1237-1242. [doi: 10.1002/cphc.202100108](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202100108) [PDF]()
+          
           
           [1] Bis-Cyclooctatetraenyl Thulium(II): Highly Reducing Lanthanide Sandwich Single-Molecule Magnets
           J. Moutet, J. Schleinitz, L. La Droitte, M. Tricoire, F. Pointillart, F. Gendron, T. Simler, C. Clavaguéra, B. Le Guennic, O. Cador, G. Nocton
+          
           Angewandte Chemie International Edition, Wiley-VCH Verlag, 2021, 60 (11), pp.6042-6046. [doi: 10.1002/anie.202015428](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202015428) [PDF](https://hal.archives-ouvertes.fr/hal-03163652/document)
 
   - title: A Little More About Me
