@@ -61,9 +61,7 @@ content:
       - layout: top-middle
         title: Organic Chemistry Lessons
         link: https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf
-        link_text: Nomenclature en chimie organique
-        link: https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf
-        link_text: Nomenclature en chimie organique
+        link_text: Nomenclature en chimie organique2
         additional_links:
           - title:  Stereochimie et Analyse Conformationnelle
         #    icon: fab fa-github
