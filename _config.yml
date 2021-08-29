@@ -60,21 +60,29 @@ content:
     content:
       - layout: top-middle
         title: Organic Chemistry Lessons
-        link: https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf
-        link_text: Nomenclature en chimie organique2
-        additional_links:
-          - title:  Stereochimie et Analyse Conformationnelle
-            icon: fab fa-github
-            url: https://truejulosdu13.github.io/organic_chemistry_lessons/Cours2.pdf
+        #link: https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf
+        #link_text: Nomenclature en chimie organique2
+        #additional_links:
+        #  - title:  Stereochimie et Analyse Conformationnelle
+        #    icon: fab fa-github
+        #    url: https://truejulosdu13.github.io/organic_chemistry_lessons/Cours2.pdf
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 #        quote: >
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-           Blabla:
-           - Nomenclature en Chimie Organique
-
+           L'ensemble des cours de chimie organique traités pendant l'année sont donnés ci-dessous :
+           1. [Nomenclature en Chimie Organique](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf)
+           2. [Stéréochimie](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours2.pdf)
+           3.
+           
+           Exercices et Corrigés
+           1.
+           2.
+           
+           Devoir Maison et Corrigés
+           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
