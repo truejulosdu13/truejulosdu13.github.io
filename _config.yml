@@ -98,7 +98,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Publications # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
        # title: Harvard University
@@ -107,10 +107,10 @@ content:
        # quote: >
        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          2. Metal-Free Deoxygenation of Amine N-Oxides: Synthetic and Mechanistic Studies
+          [2]. Metal-Free Deoxygenation of Amine N-Oxides: Synthetic and Mechanistic Studies
           W. Lecroq, J. Schleinitz, M. Billoue, A. Perfetto, A-C. Gaumont, J. Lalevée, I. Ciofini, L. Grimaud, S. Lakhdar
           Chemphyschem. 2021 Jun 16;22(12):1237-1242. [doi: 10.1002/cphc.202100108](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202100108) [PDF]()
-          1. Bis-Cyclooctatetraenyl Thulium(II): Highly Reducing Lanthanide Sandwich Single-Molecule Magnets
+          [1]. Bis-Cyclooctatetraenyl Thulium(II): Highly Reducing Lanthanide Sandwich Single-Molecule Magnets
           J. Moutet, J. Schleinitz, L. La Droitte, M. Tricoire, F. Pointillart, F. Gendron, T. Simler, C. Clavaguéra, B. Le Guennic, O. Cador, G. Nocton
           Angewandte Chemie International Edition, Wiley-VCH Verlag, 2021, 60 (11), pp.6042-6046. [doi: 10.1002/anie.202015428](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202015428) [PDF](https://hal.archives-ouvertes.fr/hal-03163652/document)
 
