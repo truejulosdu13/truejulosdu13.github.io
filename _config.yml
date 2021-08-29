@@ -75,7 +75,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           The lessons are written in French for students applying to the [Agrégation externe de physique chimie option physique](https://agregation-physique.org/).
           
-          Cours 
+          Cours :
            - [Nomenclature en chimie organique](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf)
            - [Stéréochimie](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours2.pdf)
            - [Substitution nucléophile bimoléculaire - **S<sub>N</sub>2**](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours3.pdf)
@@ -91,11 +91,11 @@ content:
            - [Catalyse hétérogène et homogène](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours13.pdf)
            - [Polymères en chimie organique](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours14.pdf)
            
-           Exercices et Corrigés
+           Exercices et Corrigés :
            - 
            - 
            
-           Devoir Maison et Corrigés
+           Devoir Maison et Corrigés :
            -
            -
    
@@ -115,7 +115,7 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           Tutorials and correction :
-          -
+          - blablabla
           -
           
           Some references I highly recommand for beginners and more in electrochemistry :
