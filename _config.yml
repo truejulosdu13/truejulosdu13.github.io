@@ -127,7 +127,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in chemistry and physics, I am passionated by cyclism, I love hiking and any kind of exploration in nature. I enjoy playing soccer with 
+      Alongside my interests in chemistry and physics and teaching, I am passionated by cyclism, I love hiking and any kind of exploration in nature. I enjoy playing soccer on rainy sundays and share a beer after.
+      I am from Marseille and no doubt that it is the best city in the World! Of course, I support the Olympique de Marseille soccer team.
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
