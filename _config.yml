@@ -52,7 +52,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/bike_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jules and I'm a PhD Student in Chemistry working at [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris under the supervision of [Laurence Grimaud](chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/) . I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them <mark>XRD</mark>, UV-visible, IR, EPR, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
+  Hi, my name is Jules and I'm a PhD Student in Chemistry working at [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris under the supervision of [Laurence Grimaud](chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/). I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them <mark>XRD</mark>, <mark>UV-visible</mark>, <mark>IR</mark>, <mark>EPR</mark>, and <mark>NMR</mark> spectroscopies as well as <mark>electrochemistry</mark> and theoretical tools : <mark>DFT</mark> and <mark>Machine Learning</mark>.
+  Alongside with my research activities, I am involved in 
 
 content:
   - title: Education # Title for the section
@@ -122,18 +123,18 @@ content:
        # quote: >
        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          [2] Metal-Free Deoxygenation of Amine N-Oxides: Synthetic and Mechanistic Studies
+          [2] **Metal-Free Deoxygenation of Amine N-Oxides: Synthetic and Mechanistic Studies**
           
-          W. Lecroq, J. Schleinitz, M. Billoue, A. Perfetto, A-C. Gaumont, J. Lalevée, I. Ciofini, L. Grimaud, S. Lakhdar
+          W. Lecroq, **J. Schleinitz**, M. Billoue, A. Perfetto, A-C. Gaumont, J. Lalevée, I. Ciofini, L. Grimaud, S. Lakhdar
           
-          Chemphyschem. 2021 Jun 16;22(12):1237-1242. [doi: 10.1002/cphc.202100108](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202100108) [PDF]()
+          *ChemPhysChem*, **2021**, 22, 1237. [DOI: 10.1002/cphc.202100108](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202100108) [PDF]()
           
           
           [1] Bis-Cyclooctatetraenyl Thulium(II): Highly Reducing Lanthanide Sandwich Single-Molecule Magnets
           
-          J. Moutet, J. Schleinitz, L. La Droitte, M. Tricoire, F. Pointillart, F. Gendron, T. Simler, C. Clavaguéra, B. Le Guennic, O. Cador, G. Nocton
+          J. Moutet, **J. Schleinitz**, L. La Droitte, M. Tricoire, F. Pointillart, F. Gendron, T. Simler, C. Clavaguéra, B. Le Guennic, O. Cador, G. Nocton
           
-          Angewandte Chemie International Edition, Wiley-VCH Verlag, 2021, 60 (11), pp.6042-6046. [doi: 10.1002/anie.202015428](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202015428) [PDF](https://hal.archives-ouvertes.fr/hal-03163652/document)
+          *Angewandte Chemie International Edition*, **2021**, 60 (11), 6042-6046. [DOI: 10.1002/anie.202015428](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202015428) [PDF](https://hal.archives-ouvertes.fr/hal-03163652/document)
           
 
   - title: A Little More About Me
