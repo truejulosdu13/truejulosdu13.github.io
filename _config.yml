@@ -36,7 +36,7 @@ additional_links:
   icon: fab fa-strava
   url: https://www.strava.com/athletes/27486196
 - title: chimie.ens.fr/grimaud/
-  icon: fas fa-globe
+  icon: fas fa-flask
   url: https://www.chimie.ens.fr/grimaud/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/bike_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jules and I'm a PhD Student in Chemistry. I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them RXD, UV-visible, IR, EPR, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
+  Hi, my name is Jules and I'm a PhD Student in Chemistry working at [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris under the supervision of [Laurence Grimaud](chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/). I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them RXD, UV-visible, IR, EPR, and NMR spectroscopies as well as electrochemistry and theoretical tools : DFT and Machine Learning.  
 
 content:
   - title: Education # Title for the section
@@ -72,6 +72,7 @@ content:
 #        quote: >
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
+            
            L'ensemble des cours de chimie organique traités pendant l'année sont donnés ci-dessous :
            - [Nomenclature en Chimie Organique](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf)
            - [Stéréochimie](https://truejulosdu13.github.io/organic_chemistry_lessons/Cours2.pdf)
@@ -117,9 +118,11 @@ content:
           
           
           [1] Bis-Cyclooctatetraenyl Thulium(II): Highly Reducing Lanthanide Sandwich Single-Molecule Magnets
+          
           J. Moutet, J. Schleinitz, L. La Droitte, M. Tricoire, F. Pointillart, F. Gendron, T. Simler, C. Clavaguéra, B. Le Guennic, O. Cador, G. Nocton
           
           Angewandte Chemie International Edition, Wiley-VCH Verlag, 2021, 60 (11), pp.6042-6046. [doi: 10.1002/anie.202015428](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202015428) [PDF](https://hal.archives-ouvertes.fr/hal-03163652/document)
+          
 
   - title: A Little More About Me
     layout: text
