@@ -61,11 +61,13 @@ content:
       - layout: top-middle
         title: Organic Chemistry Lessons
         link: https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf
-        link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        link_text: Nomenclature en chimie organique
+        link: https://truejulosdu13.github.io/organic_chemistry_lessons/Cours1.pdf
+        link_text: Nomenclature en chimie organique
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
