@@ -9,7 +9,7 @@ version: 2
 name: Jules Schleinitz
 title: PhD Student - Inorganic Mechanism Investigation
 email: jules.schleinitz@ens.psl.eu
-website: www.github.com/truejulosdu13.github.io
+# website: www.github.com/truejulosdu13.github.io/julesschleinitz.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -180,7 +180,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in chemistry and physics and teaching, I am passionated by cyclism, I love hiking and any kind of exploration in nature. I enjoy playing soccer on rainy sundays and share a beer after.
+      Alongside my interests in chemistry and physics and teaching, I am passionated by cycling, I love hiking and any kind of exploration in nature. I enjoy playing soccer on rainy sundays and share a beer after.
       I am from Marseille and no doubt that it is the best city in the World! Of course, I support the Olympique de Marseille soccer team.
 
 
