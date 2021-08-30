@@ -119,7 +119,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          There are for sure some mistakes in the lessons and exercices files, please let me know when noticed ! 
+          There are for sure some mistakes in the tutorials and correction files, please let me know when noticed ! 
         description: | # this will include new lines to allow paragraphs
           Tutorials  :
           - [Mesure du potentiel de charge nulle](/julesschleinitz.github.io/electrochemistry_tutorials/TD_1_jules.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_1_jules_corrige.pdf)
@@ -141,7 +141,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ML for Yield Prediction
+        title: ML for Reaction Yield Prediction
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: theoretical study
