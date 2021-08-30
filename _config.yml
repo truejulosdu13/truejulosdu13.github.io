@@ -101,7 +101,7 @@ content:
            - [**A<sub>N</sub> + E**](/julesschleinitz.github.io/organic_chemistry_exercices/Ex_AN+E.pdf), [Corrigé](/julesschleinitz.github.io/organic_chemistry_exercices/Corrigé_AN+E+ex1-8.pdf)
            - [Alcènes](/julesschleinitz.github.io/organic_chemistry_exercices/Ex_Alcenes_I.pdf), Corrigé
            - [Diels Alder](/julesschleinitz.github.io/organic_chemistry_exercices/Ex_DA.pdf), [Corrigé](/julesschleinitz.github.io/organic_chemistry_lessons/Corrigé_DA_2.pdf)
-           - [Réactivité en &alpha; d'un groupe electro attracteur](/julesschleinitz.github.io/organic_chemistry_exercices/Ex_reactivite_alpha.pdf), [Corrigé](/julesschleinitz.github.io//organic_chemistry_exercices/Corrigé_reactivité_alpha.pdf)
+           - [Réactivité en &alpha; d'un groupe electro attracteur](/julesschleinitz.github.io/organic_chemistry_exercices/Ex_reactivite_alpha.pdf), [Corrigé](/julesschleinitz.github.io/organic_chemistry_exercices/Corrigé_reactivité_alpha.pdf)
            
            Devoir Maison et Corrigés :
             Coming Soon
@@ -121,9 +121,14 @@ content:
 #        quote: >
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          Tutorials and correction :
-          - blablabla
-          -
+          Tutorials  :
+          - [Mesure du potentiel de charge nulle](/julesschleinitz.github.io/electrochemistry_tutorials/TD_1_jules.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_1_jules_corrige.pdf)
+          - [Modelisation d'une interface electrochimique](/julesschleinitz.github.io/electrochemistry_tutorials/TD_2_Randless.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_2_Full_corrige.pdf)
+          - [Buttler-Volmer & Application](/julesschleinitz.github.io/electrochemistry_tutorials/TD_2_BV.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_2_Full_corrige.pdf)
+          - [Marcus & Application](/julesschleinitz.github.io/electrochemistry_tutorials/TD_2_Marcus.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_2_Full_corrige.pdf)
+          - [Limitation par le **transfert de masse**](/julesschleinitz.github.io/electrochemistry_tutorials/TD_3_jules.pdf), [Corrigé]()
+          - [Determination du nombre d'electrons](/julesschleinitz.github.io/electrochemistry_tutorials/TD_4_determination_nombre_electrons.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_4_corrigé.pdf)
+          
           
           Some references I highly recommand for beginners and more in electrochemistry :
 
