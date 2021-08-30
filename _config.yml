@@ -70,8 +70,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+          There are for sure some mistakes in the lessons and exercices files, please let me know when noticed ! 
         description: | # this will include new lines to allow paragraphs
           The lessons are written in French for students applying to the [Agrégation externe de physique chimie option physique](https://agregation-physique.org/).
           
@@ -118,8 +118,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        quote: >
+          There are for sure some mistakes in the lessons and exercices files, please let me know when noticed ! 
         description: | # this will include new lines to allow paragraphs
           Tutorials  :
           - [Mesure du potentiel de charge nulle](/julesschleinitz.github.io/electrochemistry_tutorials/TD_1_jules.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_1_jules_corrige.pdf)
@@ -132,7 +132,7 @@ content:
           
           Some references I highly recommand :
           - Basic Concepts : [A Practical Beginner’s Guide to Cyclic Voltammetry, *J. Chem. Educ.* **2018**, 95, 2, 197–206](https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.7b00361)
-          - Adavanced Applications : [A synthetic chemist's guide to electroanalytical tools for studying reaction mechanisms, *Chem. Sci.*, **2019**,10, 6404-6422](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01545k)
+          - Advanced Applications : [A synthetic chemist's guide to electroanalytical tools for studying reaction mechanisms, *Chem. Sci.*, **2019**,10, 6404-6422](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01545k)
           - The Bible : *Elements of Molecular and biomolecular Electrochemistry*, **J.-M. Savéant**, 2006
           - *Electrochimie physique et analytique*, **Hubert H. Girault**, 2013
 
