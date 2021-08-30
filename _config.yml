@@ -130,9 +130,11 @@ content:
           - [Determination du nombre d'electrons](/julesschleinitz.github.io/electrochemistry_tutorials/TD_4_determination_nombre_electrons.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_4_corrigé.pdf)
           
           
-          Some references I highly recommand for beginners and more in electrochemistry :
-          - [A Practical Beginner’s Guide to Cyclic Voltammetry, *J. Chem. Educ.* **2018**, 95, 2, 197–206](https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.7b00361)
-          - 
+          Some references I highly recommand :
+          - Basic Concepts : [A Practical Beginner’s Guide to Cyclic Voltammetry, *J. Chem. Educ.* **2018**, 95, 2, 197–206](https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.7b00361)
+          - Adavanced Applications : [A synthetic chemist's guide to electroanalytical tools for studying reaction mechanisms, *Chem. Sci.*, **2019**,10, 6404-6422](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c9sc01545k)
+          - The Bible : *Elements of Molecular and biomolecular Electrochemistry*, **J.-M. Savéant**, 2006
+          - *Electrochimie physique et analytique*, **Hubert H. Girault**, 2013
 
                       
   - title: Research Projects # Title for the section
@@ -188,8 +190,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in chemistry and physics and teaching, I am passionated by cycling, I love hiking and any kind of exploration in nature. I enjoy playing soccer on rainy sundays and share a beer after.
-      I am from Marseille and no doubt that it is the best city in the World! Of course, I support the Olympique de Marseille soccer team.
-
+      I am from Marseille and no doubt that it is the best city in the World! Of course, I support the [Olympique de Marseille](https://www.om.fr/fr) soccer team.
 
       <img src="images/bonne_mere.png" alt="Paris" style="width:100%;" class="center">  
     #  ![La bonne mère](images/bonne_mere.png)
