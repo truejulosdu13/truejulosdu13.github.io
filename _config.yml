@@ -9,7 +9,7 @@ version: 2
 name: Jules Schleinitz
 title: PhD Student - Mechanistic Studies
 email: jules.schleinitz@ens.psl.eu
-address : ENS Paris, Office E021, [24 rue Lhomond 75005 Paris, France](https://www.google.com/maps/place/D%C3%A9partement+de+Physique,+Ecole+Normale+Sup%C3%A9rieure/@48.8422093,2.3429802,17z/data=!4m12!1m6!3m5!1s0x47e671e99512085d:0x3b69748ca3b78f0d!2s%C3%89cole+Normale+Sup%C3%A9rieure!8m2!3d48.8422058!4d2.3451689!3m4!1s0x0:0x5f69605cfbac8f02!8m2!3d48.8430845!4d2.3466789)
+address : ENS Paris, Office E021, 24 rue Lhomond 75005 Paris, France #(https://www.google.com/maps/place/D%C3%A9partement+de+Physique,+Ecole+Normale+Sup%C3%A9rieure/@48.8422093,2.3429802,17z/data=!4m12!1m6!3m5!1s0x47e671e99512085d:0x3b69748ca3b78f0d!2s%C3%89cole+Normale+Sup%C3%A9rieure!8m2!3d48.8422058!4d2.3451689!3m4!1s0x0:0x5f69605cfbac8f02!8m2!3d48.8430845!4d2.3466789)
 # website: www.github.com/truejulosdu13.github.io/julesschleinitz.github.io
 
 # Dark Mode (true/false/never)
@@ -138,30 +138,45 @@ content:
           - *Electrochimie physique et analytique*, **Hubert H. Girault**, 2013
 
                       
-  - title: Research Projects # Title for the section
+  - title: Research Projects & Collaborations # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: ML for Reaction Yield Prediction
+#      - layout: left
+#        title: ML for Reaction Yield Prediction
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: theoretical study
-        caption: January 2021 - Present
-        quote: >
-          To be continued
-        description: | # this will include new lines to allow paragraphs
-            How precise can we predict the yield of a reaction with ML trained on a noisy dataset ?
+#        sub_title: theoretical study
+#        caption: January 2021 - Present
+#        quote: >
+3          To be continued
+#        description: | # this will include new lines to allow paragraphs
+#            How precise can we predict the yield of a reaction with ML trained on a noisy dataset ?
             
-      - layout: left
-        title: O.A. of Nitro compounds on Palladium Complexes
+#      - layout: left
+#        title: O.A. of Nitro compounds on Palladium Complexes
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: experimental and DFT study
-        caption: September 2020 - Present
-        quote: >
-          To be continued
+#        sub_title: experimental and DFT study
+#        caption: September 2020 - Present
+#        quote: >
+#          To be continued
+#        description: | # this will include new lines to allow paragraphs
+#            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ?
+      - layout: top-middle
+        title: Collaborators
+       # caption: 2010 - 2013
+       # sub_title: BSc Computer Science
+       # quote: >
+       #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ?
+          - [Maxime Vitale](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/maxime-r-vitale/)
+          - [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf)
+          - [Sami Lakhdar](https://lhfa.cnrs.fr/index.php/en/component/contact/contact/165?Itemid=797)
+          - [Marine Desage-El Murr](http://marinedesageelmurr.fr/)
+          - [Rodolphe Villeumier](https://www.chimie.ens.fr/recherche/laboratoire-pasteur/chimie-theorique/members-of-the-theoretical-chemistry-group/rodolphe-vuilleumier/)
+          - [Maxime Langevin](https://www.linkedin.com/in/maxime-langevin-1aa58912b/?originalSubdomain=fr)
+          - [Anna Perfetto](https://www.linkedin.com/in/anna-perfetto-2a2a55143/?originalSubdomain=fr)
+          - [Sylvestre Bachollet](https://www.linkedin.com/in/sylvestre-bachollet-50783042/?originalSubdomain=fr)
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
