@@ -7,8 +7,9 @@ version: 2
 
 # Personal info
 name: Jules Schleinitz
-title: PhD Student - Inorganic Mechanism Investigation
+title: PhD Student - Mechanistic Studies
 email: jules.schleinitz@ens.psl.eu
+address : ENS Paris, Office E021, [24 rue Lhomond 75005 Paris, France](https://www.google.com/maps/place/D%C3%A9partement+de+Physique,+Ecole+Normale+Sup%C3%A9rieure/@48.8422093,2.3429802,17z/data=!4m12!1m6!3m5!1s0x47e671e99512085d:0x3b69748ca3b78f0d!2s%C3%89cole+Normale+Sup%C3%A9rieure!8m2!3d48.8422058!4d2.3451689!3m4!1s0x0:0x5f69605cfbac8f02!8m2!3d48.8430845!4d2.3466789)
 # website: www.github.com/truejulosdu13.github.io/julesschleinitz.github.io
 
 # Dark Mode (true/false/never)
@@ -53,7 +54,7 @@ additional_links:
 about_profile_image: images/bike_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jules and I'm a PhD Student in Chemistry working at [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/). I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them **XRD**, **UV-visible**, **IR**, **EPR**, and **NMR** spectroscopies as well as **electrochemistry** and theoretical tools : **DFT** and **Machine Learning**.
-  Alongside with my research activities, I spend half of my time teaching chemistry at Ecole Normale Supérieure (Organic chemistry : lessons, electrochemistry : tutorials and experimental sessions, experimental projects...).
+  Alongside with my research activities, I spend half of my time teaching chemistry at Ecole Normale Supérieure (Organic chemistry : lessons, electrochemistry : tutorials and experimental sessions, experimental projects for bachelor and master students.).
 
 content:
   - title: Teaching # Title for the section
@@ -189,7 +190,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in chemistry and physics and teaching, I am passionated by cycling, I love hiking and any kind of exploration in nature. I enjoy playing soccer on rainy sundays and share a beer after.
+      Alongside my interests in chemistry, physics and teaching, I am passionated by cycling, I love hiking and any kind of exploration in nature. I enjoy playing soccer on rainy sundays and share a beer after.
       I am from Marseille and no doubt that it is the best city in the World! Of course, I support the [Olympique de Marseille](https://www.om.fr/fr) soccer team.
 
       <img src="images/bonne_mere.png" alt="Paris" style="width:100%;" class="center">  
