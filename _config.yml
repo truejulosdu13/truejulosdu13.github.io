@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: truejulosdu13/julesschleinitz.github.io
 favicon: images/favicon.ico
 google_site_verification: CoIqeZeNoqA_Ggf3RbR3XPdg3jLHzjsdP-yrwMCJmcA
 # Content configuration version
@@ -9,7 +9,7 @@ version: 2
 name: Jules Schleinitz
 title: PhD Student - Mechanistic Studies
 email: jules.schleinitz@ens.psl.eu
-address : ENS Paris, Office E021, 24 rue Lhomond 75005 Paris, France #(https://www.google.com/maps/place/D%C3%A9partement+de+Physique,+Ecole+Normale+Sup%C3%A9rieure/@48.8422093,2.3429802,17z/data=!4m12!1m6!3m5!1s0x47e671e99512085d:0x3b69748ca3b78f0d!2s%C3%89cole+Normale+Sup%C3%A9rieure!8m2!3d48.8422058!4d2.3451689!3m4!1s0x0:0x5f69605cfbac8f02!8m2!3d48.8430845!4d2.3466789)
+#address : ENS Paris, Office E021, 24 rue Lhomond 75005 Paris, France #(https://www.google.com/maps/place/D%C3%A9partement+de+Physique,+Ecole+Normale+Sup%C3%A9rieure/@48.8422093,2.3429802,17z/data=!4m12!1m6!3m5!1s0x47e671e99512085d:0x3b69748ca3b78f0d!2s%C3%89cole+Normale+Sup%C3%A9rieure!8m2!3d48.8422058!4d2.3451689!3m4!1s0x0:0x5f69605cfbac8f02!8m2!3d48.8430845!4d2.3466789)
 # website: www.github.com/truejulosdu13.github.io/julesschleinitz.github.io
 
 # Dark Mode (true/false/never)
