@@ -148,7 +148,7 @@ content:
 #        sub_title: theoretical study
 #        caption: January 2021 - Present
 #        quote: >
-3          To be continued
+#          To be continued
 #        description: | # this will include new lines to allow paragraphs
 #            How precise can we predict the yield of a reaction with ML trained on a noisy dataset ?
             
