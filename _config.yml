@@ -124,6 +124,10 @@ content:
         quote: >
           There are for sure some mistakes in the tutorials and correction files, please let me know when noticed ! 
         description: | # this will include new lines to allow paragraphs
+          Cours Introductif :
+          [Slides](/julesschleinitz.github.io/electrochemistry_tutorials/Cours_Introductif.pdf)
+          
+          
           Tutorials  :
           - [Mesure du potentiel de charge nulle](/julesschleinitz.github.io/electrochemistry_tutorials/TD_1_jules.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_1_jules_corrige.pdf)
           - [Modelisation d'une interface electrochimique](/julesschleinitz.github.io/electrochemistry_tutorials/TD_2_Randless.pdf), [Corrigé](/julesschleinitz.github.io/electrochemistry_tutorials/TD_2_Full_corrige.pdf)
