@@ -174,6 +174,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Metal Free Photomediated Pyridine N-Oxide Deoxygenation
         caption: <img src="images/isomerisation2_wb.png" alt="Paris" style="width:100%;" class="center">
+                 2019 - 2020
         quote: >
           N-Oxide Pyridines Deoxygenation -  An Experimental & DFT Mechanistic Study
         description: | # this will include new lines to allow paragraphs
@@ -188,9 +189,9 @@ content:
         # link_text: boringcompany.com
         sub_title: New Nickel Structures for Synthesis
         caption: <img src="images/Nicomplexes_figure.png" alt="Paris" style="width:100%;" class="center">
-                 2019-2020 
+                 2020 - Present
         quote: >
-          DFT and Electrochemistry
+          Characterisation on Nickel Complexes Structure and Reactivity - DFT and Electrochemistry
         description: | # this will include new lines to allow paragraphs
             I describe the electrochemical behaviour of alloxazine and isoalloxazine ligands as well as the species resulting from their complexation to one, three or six Nickel centers, these molecules are synthetized by the group of [Marine Desage-El Murr](http://marinedesageelmurr.fr/). 
             Different voltamperometry techniques were used to quantify the redox potentials of the complexes and understand their reactivity.
@@ -210,7 +211,7 @@ content:
           Oxydative Addition of the Nitro Perylene Diimide Mechanistic Study
         description: | # this will include new lines to allow paragraphs
             What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ? We show that a S.E.T mechanism rather than a concerted oxydative addition is involved in the case of the PDI-NO<sub>2</sub>. This mechanistic study was performed in collaboration with the Hudhomme group, who realized the first coupling with PDI-NO<sub>2</sub>. 
-            DFT study was performed n collaboration with the group of [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf): [Anna Perfetto](https://www.linkedin.com/in/anna-perfetto-2a2a55143/?originalSubdomain=fr) and Clara Chinchilla. The experimental studies were done in our lab by Clara Chinchilla, Aurelien Bailly and myself under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/) and [Maxime Vitale](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/maxime-r-vitale/). 
+            DFT study was performed n collaboration with the group of [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf) : [Anna Perfetto](https://www.linkedin.com/in/anna-perfetto-2a2a55143/?originalSubdomain=fr) and Clara Chinchilla. The experimental studies were done in our lab by Clara Chinchilla, Aurelien Bailly and myself under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/) and [Maxime Vitale](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/maxime-r-vitale/). 
 
       - layout: top-middle
         title: Other Research Collaborators
