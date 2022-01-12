@@ -181,16 +181,29 @@ content:
 
             Our results are published in *ChemPhysChem* : [DOI: 10.1002/cphc.202100108](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202100108), [PDF](https://hal.archives-ouvertes.fr/hal-03306177/file/ChemPhysChem%20%28final%20rev%20version%29%281%29.pdf)
 
+
       - layout: left
         #title: N-Oxide Pyridines Deoxugenation
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Combined Experimental & DFT Study
+        sub_title: New Nickel Structures for Synthesis
         caption: <img src="images/isomerisation2_wb.png" alt="Paris" style="width:100%;" class="center">
         quote: >
-          N-Oxide Pyridines Deoxygenation - Mechanistic Study
+          DFT and Electrochemistry
         description: | # this will include new lines to allow paragraphs
             What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ?
+
+
+      - layout: left
+        #title: N-Oxide Pyridines Deoxugenation
+        #link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Suzuki Coupling of Extended Aromatic Nitro Compounds
+        caption: <img src="images/isomerisation2_wb.png" alt="Paris" style="width:100%;" class="center">
+        quote: >
+          Oxydative Addition of the Nitro Perylene Diimide Mechanistic Study
+        description: | # this will include new lines to allow paragraphs
+            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ? Elucidation of a S.E.T mechanism...
 
       - layout: top-middle
         title: Collaborators
