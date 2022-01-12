@@ -157,7 +157,7 @@ content:
         title: ML for Reaction Yield Prediction
         #link: boringcompany.com
         # link_text: boringcompany.com
-        image: images/bike_photo.jpg
+        icon: images/bike_photo.jpg
         sub_title: theoretical study
         caption: January 2021 - Present
         quote: >
