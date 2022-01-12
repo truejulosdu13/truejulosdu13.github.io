@@ -163,9 +163,9 @@ content:
         quote: >
           Prediction of Reaction Yield for Nickel Coupling Reactions - Machine Learning and DFT Featurization
         description: | # this will include new lines to allow paragraphs
-            We compiled a literature extracted data on Nickel carbon-oxygen aromatic coupling in order to evaluate how precise yield prediction can be for such data. In collaboration with Maxime Langevin, we go beyond random split and perform predictions with publication or mechanisms split to have a better idea of the usefullness of Machine Learning prediction techniques for academic synthesis laboratories or computer assisted synthesis planning using literature datasets.
+            We compiled a literature extracted data on Nickel carbon-oxygen aromatic coupling in order to evaluate how precise yield prediction can be for such data. In collaboration with [Maxime Langevin](https://www.linkedin.com/in/maxime-langevin-1aa58912b/?originalSubdomain=fr), we go beyond random split and perform predictions with publication or mechanisms split to have a better idea of the usefullness of Machine Learning prediction techniques for academic synthesis laboratories or computer assisted synthesis planning using literature datasets.
 
-            This work is conducted under the supervision of Laurence Grimaud and Rodolphe Vuillemier.
+            This work is conducted under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/) and [Rodolphe Villeumier](https://www.chimie.ens.fr/recherche/laboratoire-pasteur/chimie-theorique/members-of-the-theoretical-chemistry-group/rodolphe-vuilleumier/).
 
             
       - layout: left
@@ -177,7 +177,7 @@ content:
         quote: >
           N-Oxide Pyridines Deoxygenation -  An Experimental & DFT Mechanistic Study
         description: | # this will include new lines to allow paragraphs
-            Understanding the isomerisation of *N*-Oxides Pyridines and Quinolines derivative by **TD-DFT** and experimental investigations. The reactions were conducted by William Lecrocq under the supervision of Sami Lakhdar, I performed the DFT investigations under the supervision of Ilaria Ciofini and Anna Perfetto, I also realized additional experimental mechanistic studies with Laurence Grimaud.
+            Understanding the isomerisation of *N*-Oxides Pyridines and Quinolines derivative by **TD-DFT** and experimental investigations. The reactions were conducted by William Lecrocq under the supervision of [Sami Lakhdar](https://lhfa.cnrs.fr/index.php/en/component/contact/contact/165?Itemid=797), I performed the DFT investigations under the supervision of [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf) and [Anna Perfetto](https://www.linkedin.com/in/anna-perfetto-2a2a55143/?originalSubdomain=fr), I also realized additional experimental mechanistic studies with [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/).
 
             Our results are published in *ChemPhysChem* : [DOI: 10.1002/cphc.202100108](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202100108), [PDF](https://hal.archives-ouvertes.fr/hal-03306177/file/ChemPhysChem%20%28final%20rev%20version%29%281%29.pdf)
 
@@ -191,9 +191,11 @@ content:
         quote: >
           DFT and Electrochemistry
         description: | # this will include new lines to allow paragraphs
-            I describe the electrochemical behaviour of alloxazine and isoalloxazine ligands as well as the species resulting from their complexation to one, three or six Nickel centers, these molecules are synthetized by the group of Marine Desage El-Murr. 
+            I describe the electrochemical behaviour of alloxazine and isoalloxazine ligands as well as the species resulting from their complexation to one, three or six Nickel centers, these molecules are synthetized by the group of [Marine Desage-El Murr](http://marinedesageelmurr.fr/). 
             Different voltamperometry techniques were used to quantify the redox potentials of the complexes and understand their reactivity.
-            For some semi-quinone Nickel complexes, the successive one electron oxydation potentials depend on the counter anion used. In order to understand this influence a DFT modelisation was made in collaboration with Ilaria Ciofini.   
+            For some semi-quinone Nickel complexes, the successive one electron oxydation potentials depend on the counter anion used. In order to understand this influence a DFT modelisation was made in collaboration with [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf).   
+            
+            Results on the characterisation of an alloxazine-Nickel trimer are published in *Inorg. Chem. Front.* :
 
 
       - layout: left
@@ -205,24 +207,18 @@ content:
         quote: >
           Oxydative Addition of the Nitro Perylene Diimide Mechanistic Study
         description: | # this will include new lines to allow paragraphs
-            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ? We show that a S.E.T mechanism rather than a concerted oxydative addition is involved in the case of the PDI-NO<sub>2</sub>.  
+            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ? We show that a S.E.T mechanism rather than a concerted oxydative addition is involved in the case of the PDI-NO<sub>2</sub>. This mechanistic study was performed in collaboration with the Hudhomme group, who realized the first coupling with PDI-NO<sub>2</sub>. 
+            DFT study was performed n collaboration with the group of [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf): Anna Perfetto and Clara Chinchilla. The experimental studies were done in our lab by Clara Chinchilla, Aurelin Bailly and myself under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/) and [Maxime Vitale](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/maxime-r-vitale/). 
 
       - layout: top-middle
-        title: Collaborators
+        title: Other Collaborators
        # caption: 2010 - 2013
        # sub_title: BSc Computer Science
        # quote: >
        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - [Maxime Vitale](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/maxime-r-vitale/)
-          - [Maximilien Levesque](https://www.linkedin.com/in/maxlvsq/?originalSubdomain=fr)
-          - [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf)
-          - [Sami Lakhdar](https://lhfa.cnrs.fr/index.php/en/component/contact/contact/165?Itemid=797)
-          - [Marine Desage-El Murr](http://marinedesageelmurr.fr/)
-          - [Rodolphe Villeumier](https://www.chimie.ens.fr/recherche/laboratoire-pasteur/chimie-theorique/members-of-the-theoretical-chemistry-group/rodolphe-vuilleumier/)
-          - [Maxime Langevin](https://www.linkedin.com/in/maxime-langevin-1aa58912b/?originalSubdomain=fr)
-          - [Anna Perfetto](https://www.linkedin.com/in/anna-perfetto-2a2a55143/?originalSubdomain=fr)
-          - [Sylvestre Bachollet](https://www.linkedin.com/in/sylvestre-bachollet-50783042/?originalSubdomain=fr)
+          - Former PhD supervisor, now CEO at Aqemia : [Maximilien Levesque](https://www.linkedin.com/in/maxlvsq/?originalSubdomain=fr)
+          - Postdoc in the lab team : [Sylvestre Bachollet](https://www.linkedin.com/in/sylvestre-bachollet-50783042/?originalSubdomain=fr)
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
