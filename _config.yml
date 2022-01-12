@@ -153,27 +153,27 @@ content:
   - title: Research Projects & Collaborations # Title for the section
     layout: list # Type of content section (list/text)
     content:
-#      - layout: left
-#        title: ML for Reaction Yield Prediction
+      - layout: left
+        title: ML for Reaction Yield Prediction
         #link: boringcompany.com
         # link_text: boringcompany.com
-#        sub_title: theoretical study
-#        caption: January 2021 - Present
-#        quote: >
-#          To be continued
-#        description: | # this will include new lines to allow paragraphs
-#            How precise can we predict the yield of a reaction with ML trained on a noisy dataset ?
+        sub_title: theoretical study
+        caption: January 2021 - Present
+        quote: >
+          To be continued
+        description: | # this will include new lines to allow paragraphs
+            How precise can we predict the yield of a reaction with ML trained on a noisy dataset ?
             
-#      - layout: left
-#        title: O.A. of Nitro compounds on Palladium Complexes
+      - layout: left
+        title: O.A. of Nitro compounds on Palladium Complexes
         #link: boringcompany.com
         # link_text: boringcompany.com
-#        sub_title: experimental and DFT study
-#        caption: September 2020 - Present
-#        quote: >
-#          To be continued
-#        description: | # this will include new lines to allow paragraphs
-#            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ?
+        sub_title: experimental and DFT study
+        caption: September 2020 - Present
+        quote: >
+          To be continued
+        description: | # this will include new lines to allow paragraphs
+            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ?
       - layout: top-middle
         title: Collaborators
        # caption: 2010 - 2013
