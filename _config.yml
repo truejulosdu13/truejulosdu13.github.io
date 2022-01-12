@@ -187,11 +187,13 @@ content:
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: New Nickel Structures for Synthesis
-        caption: <img src="images/isomerisation2_wb.png" alt="Paris" style="width:100%;" class="center">
+        caption: <img src="images/Nicomplexes_figure.png" alt="Paris" style="width:100%;" class="center">
         quote: >
           DFT and Electrochemistry
         description: | # this will include new lines to allow paragraphs
-            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ?
+            I describe the electrochemical behaviour of alloxazine and isoalloxazine ligands as well as the species resulting from their complexation to one, three or six Nickel centers, these molecules are synthetized by the group of Marine Desage El-Murr. 
+            Different voltamperometry techniques were used to quantify the redox potentials of the complexes and understand their reactivity.
+            For some semi-quinone Nickel complexes, the successive one electron oxydation potentials depend on the counter anion used. In order to understand this influence a DFT modelisation was made in collaboration with Ilaria Ciofini.   
 
 
       - layout: left
@@ -199,11 +201,11 @@ content:
         #link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Suzuki Coupling of Extended Aromatic Nitro Compounds
-        caption: <img src="images/isomerisation2_wb.png" alt="Paris" style="width:100%;" class="center">
+        caption: <img src="images/pdino2_figure.png" alt="Paris" style="width:100%;" class="center">
         quote: >
           Oxydative Addition of the Nitro Perylene Diimide Mechanistic Study
         description: | # this will include new lines to allow paragraphs
-            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ? Elucidation of a S.E.T mechanism...
+            What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ? We show that a S.E.T mechanism rather than a concerted oxydative addition is involved in the case of the PDI-NO<sub>2</sub>.  
 
       - layout: top-middle
         title: Collaborators
