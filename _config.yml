@@ -188,6 +188,7 @@ content:
         # link_text: boringcompany.com
         sub_title: New Nickel Structures for Synthesis
         caption: <img src="images/Nicomplexes_figure.png" alt="Paris" style="width:100%;" class="center">
+                 2019-2020 
         quote: >
           DFT and Electrochemistry
         description: | # this will include new lines to allow paragraphs
@@ -195,7 +196,7 @@ content:
             Different voltamperometry techniques were used to quantify the redox potentials of the complexes and understand their reactivity.
             For some semi-quinone Nickel complexes, the successive one electron oxydation potentials depend on the counter anion used. In order to understand this influence a DFT modelisation was made in collaboration with [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf).   
             
-            Results on the characterisation of an alloxazine-Nickel trimer are published in *Inorg. Chem. Front.* :
+            Results on the characterisation of an alloxazine-Nickel trimer are published in *Inorg. Chem. Front.* : [DOI: 10.1039/D1QI01131F](https://pubs.rsc.org/en/content/articlelanding/2021/qi/d1qi01131f/unauth)
 
 
       - layout: left
@@ -204,14 +205,15 @@ content:
         # link_text: boringcompany.com
         sub_title: Suzuki Coupling of Extended Aromatic Nitro Compounds
         caption: <img src="images/pdino2_figure.png" alt="Paris" style="width:100%;" class="center">
+                 2020 - Present
         quote: >
           Oxydative Addition of the Nitro Perylene Diimide Mechanistic Study
         description: | # this will include new lines to allow paragraphs
             What make the O.A. on PDI-NO<sub>2</sub> substrate so easy compared to nitro benzene ? We show that a S.E.T mechanism rather than a concerted oxydative addition is involved in the case of the PDI-NO<sub>2</sub>. This mechanistic study was performed in collaboration with the Hudhomme group, who realized the first coupling with PDI-NO<sub>2</sub>. 
-            DFT study was performed n collaboration with the group of [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf): Anna Perfetto and Clara Chinchilla. The experimental studies were done in our lab by Clara Chinchilla, Aurelin Bailly and myself under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/) and [Maxime Vitale](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/maxime-r-vitale/). 
+            DFT study was performed n collaboration with the group of [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf): [Anna Perfetto](https://www.linkedin.com/in/anna-perfetto-2a2a55143/?originalSubdomain=fr) and Clara Chinchilla. The experimental studies were done in our lab by Clara Chinchilla, Aurelien Bailly and myself under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/) and [Maxime Vitale](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/maxime-r-vitale/). 
 
       - layout: top-middle
-        title: Other Collaborators
+        title: Other Research Collaborators
        # caption: 2010 - 2013
        # sub_title: BSc Computer Science
        # quote: >
@@ -251,7 +253,7 @@ content:
           *Angewandte Chemie International Edition*, **2021**, 60 (11), 6042-6046. [DOI: 10.1002/anie.202015428](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202015428), [PDF](https://hal.archives-ouvertes.fr/hal-03163652/document)
 
 
-  - title: A Little More About Me
+  - title: When not teaching nor in the Lab
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in chemistry, physics and teaching, I am passionated by cycling, I love hiking and any kind of exploration in nature. I enjoy playing soccer on rainy sundays and share a beer after.
