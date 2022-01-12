@@ -154,14 +154,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ML for Reaction Yield Prediction
+        #title: Machine Learning Reaction Yield Prediction on Literature Data 
         #link: boringcompany.com
         # link_text: boringcompany.com
-        icon: images/bike_photo.jpg
-        sub_title: theoretical study
-        caption: January 2021 - Present
+        sub_title: Machine Learning Reaction Yield Prediction with Literature Data
+        caption: <img src="images/isomerisation2_wb.png" alt="Paris" style="width:100%;" class="center">
+                 January 2021 - Present
         quote: >
-          To be continued
+          Prediction of Reaction Yield for Nickel Coupling Reactions - Machine Learning and DFT Featurization
         description: | # this will include new lines to allow paragraphs
             How precise can we predict the yield of a reaction with ML trained on a noisy dataset ?
             
@@ -169,12 +169,13 @@ content:
         #title: N-Oxide Pyridines Deoxugenation
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Combined Experimental & DFT Study
+        sub_title: Metal Free Photomediated Pyridine *N*-Oxide Deoxygenation
         caption: <img src="images/isomerisation2_wb.png" alt="Paris" style="width:100%;" class="center">
         quote: >
-          N-Oxide Pyridines Deoxygenation - Mechanistic Study
+          N-Oxide Pyridines Deoxygenation -  An Experimental & DFT Mechanistic Study
         description: | # this will include new lines to allow paragraphs
-            Understanding the isomerisation of *N*-Oxides Pyridines and Quinolines derivative by TD-DFT and experimental investigation. The reactions were conducted by William Lecrocq under the supervision of Sami Lakhdar, I performed the DFT investigations under the supervision of Ilaria Ciofini and Anna Perfetto, I also realized additional experimental mechanistic studies with Laurence Grimaud.
+            Understanding the isomerisation of *N*-Oxides Pyridines and Quinolines derivative by **TD-DFT** and experimental investigations. The reactions were conducted by William Lecrocq under the supervision of Sami Lakhdar, I performed the DFT investigations under the supervision of Ilaria Ciofini and Anna Perfetto, I also realized additional experimental mechanistic studies with Laurence Grimaud.
+
             Our results are published in *ChemPhysChem* : [DOI: 10.1002/cphc.202100108](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202100108), [PDF](https://hal.archives-ouvertes.fr/hal-03306177/file/ChemPhysChem%20%28final%20rev%20version%29%281%29.pdf)
 
       - layout: left
