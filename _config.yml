@@ -221,6 +221,7 @@ content:
        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           - Former PhD supervisor, now CEO at Aqemia : [Maximilien Levesque](https://www.linkedin.com/in/maxlvsq/?originalSubdomain=fr)
+          - Former Master internship supervisor : [Gregory Nocton](http://www.gregory.nocton.fr/)
           - Postdoc in the lab team : [Sylvestre Bachollet](https://www.linkedin.com/in/sylvestre-bachollet-50783042/?originalSubdomain=fr)
 
   - title: Publications # Title for the section
