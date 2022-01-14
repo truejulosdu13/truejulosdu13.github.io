@@ -29,7 +29,7 @@ linkedin_username: jules-schleinitz-90a5a1161
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0001-7116-4772
 
 # Additional icon links
 additional_links:
@@ -254,7 +254,7 @@ content:
           *Angewandte Chemie International Edition*, **2021**, 60 (11), 6042-6046. [DOI: 10.1002/anie.202015428](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202015428), [PDF](https://hal.archives-ouvertes.fr/hal-03163652/document)
 
 
-  - title: When neither teaching nor in the Lab
+  - title: When not in the Lab
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in chemistry, physics and teaching, I am passionated by cycling, I love hiking and any kind of exploration in nature. I enjoy playing soccer on rainy sundays and share a beer after.
