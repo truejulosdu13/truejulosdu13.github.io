@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jules Schleinitz
-title: PhD Student - Mechanistic Studies
+title: Ph.D. Student - Mechanistic Studies
 email: jules.schleinitz@ens.psl.eu
 #address : ENS Paris, Office E021, 24 rue Lhomond 75005 Paris, France #(https://www.google.com/maps/place/D%C3%A9partement+de+Physique,+Ecole+Normale+Sup%C3%A9rieure/@48.8422093,2.3429802,17z/data=!4m12!1m6!3m5!1s0x47e671e99512085d:0x3b69748ca3b78f0d!2s%C3%89cole+Normale+Sup%C3%A9rieure!8m2!3d48.8422058!4d2.3451689!3m4!1s0x0:0x5f69605cfbac8f02!8m2!3d48.8430845!4d2.3466789)
 # website: www.github.com/truejulosdu13.github.io/julesschleinitz.github.io
@@ -53,10 +53,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/photo_portrait.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jules and I'm a PhD Student in Chemistry working at [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/). I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them **XRD**, **UV-visible**, **IR**, **EPR**, and **NMR** spectroscopies as well as **electrochemistry** and theoretical tools : **DFT** and **Machine Learning**.
-  Alongside with my research activities, I spend half of my time teaching chemistry at Ecole Normale Supérieure (Organic chemistry : lessons, electrochemistry : tutorials and experimental sessions, experimental projects for bachelor and master students.).
+  Hi, my name is Jules and I'm a Ph.D. student in chemistry working at [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/). I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them **XRD**, **UV-visible**, **IR**, **EPR**, and **NMR** spectroscopies as well as **electrochemistry** and theoretical tools: **DFT** and **Machine Learning**.
+  Alongside with my research activities, I spend half of my time teaching chemistry at Ecole Normale Supérieure (Organic chemistry: lessons, electrochemistry: tutorials and experimental sessions, experimental projects for bachelor and master students.).
   
-  Here a short [CV](/julesschleinitz.github.io/CV_v3.pdf).
+  Here a [CV](/julesschleinitz.github.io/CV_v3.pdf).
 
 content:
   - title: Teaching # Title for the section
@@ -158,13 +158,13 @@ content:
         #title: Machine Learning Reaction Yield Prediction on Literature Data 
         #link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Machine Learning Reaction Yield Prediction with Literature Data
+        sub_title: Machine Learning for Reaction Yield Prediction on Literature Data
         caption: <img src="images/ml_figure.png" alt="Paris" style="width:100%;" class="center">
                  January 2021 - Present
         quote: >
-          Prediction of Reaction Yield for Nickel Coupling Reactions - Machine Learning and DFT Featurization
+          Prediction of reaction yields for nickel-based coupling reactions - ML and DFT featurization
         description: | # this will include new lines to allow paragraphs
-            We compiled a literature extracted data on Nickel carbon-oxygen aromatic coupling in order to evaluate how precise yield prediction can be for such data. In collaboration with [Maxime Langevin](https://www.linkedin.com/in/maxime-langevin-1aa58912b/?originalSubdomain=fr), we go beyond random split and perform predictions with publication or mechanisms split to have a better idea of the usefullness of Machine Learning prediction techniques for academic synthesis laboratories or computer assisted synthesis planning using literature datasets.
+            We compiled a literature extracted data on nickel carbon-oxygen aromatic coupling in order to evaluate how precise yield prediction can be for such data. In collaboration with [Maxime Langevin](https://www.linkedin.com/in/maxime-langevin-1aa58912b/?originalSubdomain=fr), we go beyond random split and perform predictions with publication or coupling partner splits to have a better idea of the usefullness of **Machine Learning** prediction techniques for academic synthesis laboratories or computer assisted synthesis planning using literature datasets.
 
             This work is conducted under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/), [Maxime Vitale](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/maxime-r-vitale/) and [Rodolphe Villeumier](https://www.chimie.ens.fr/recherche/laboratoire-pasteur/chimie-theorique/members-of-the-theoretical-chemistry-group/rodolphe-vuilleumier/).
 
@@ -194,11 +194,11 @@ content:
         quote: >
           Characterisation of Nickel Complexes Structure and Reactivity - DFT and Electrochemistry
         description: | # this will include new lines to allow paragraphs
-            I describe the electrochemical behaviour of alloxazine and isoalloxazine ligands as well as the species resulting from their complexation to one, three or six Nickel centers, these molecules are synthetized by the group of [Marine Desage-El Murr](http://marinedesageelmurr.fr/). 
-            Different voltamperometry techniques were used to quantify the redox potentials of the complexes and understand their reactivity.
-            For some semi-quinone Nickel complexes, the successive one electron oxydation potentials depend on the counter anion used. In order to understand this influence a DFT modelisation was made in collaboration with [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf).   
+            I describe the electrochemical behaviour of alloxazine and isoalloxazine ligands as well as the species resulting from their complexation to one, three or six nickel centers, these molecules are synthetized by the group of [Marine Desage-El Murr](http://marinedesageelmurr.fr/). 
+            I used **electrochemistry** methods to quantify the redox potentials of the complexes and understand their reactivity.
+            For some semi-quinone nickel complexes, the successive one electron oxydation potentials depend on the counter anion used. DFT modeling gives insights on the reasons of this influence. The calculations were made under the supervision of [Ilaria Ciofini](https://www.chimieparistech.psl.eu/wp-content/uploads/2021/02/ilariaciofini-notice-biographique.pdf).   
             
-            Results on the characterisation of an alloxazine-Nickel trimer are published in *Inorg. Chem. Front.* : [DOI: 10.1039/D1QI01131F](https://pubs.rsc.org/en/content/articlelanding/2021/qi/d1qi01131f/unauth)
+            Results on the characterisation of an alloxazine-nickel trimer are published in *Inorg. Chem. Front.* : [DOI: 10.1039/D1QI01131F](https://pubs.rsc.org/en/content/articlelanding/2021/qi/d1qi01131f/unauth)
 
 
       - layout: left
