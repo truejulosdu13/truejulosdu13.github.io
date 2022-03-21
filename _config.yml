@@ -235,6 +235,16 @@ content:
        # quote: >
        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          [5] **Can Organic Chemistry Literature Enable Machine Learning Yield Prediction ?***
+
+          **J. Schleinitz**, M. Langevin, Y. Smail, B. Wehnert, L. Grimaud and R. Vuilleumier
+          *writting**
+
+          [4] **A Single Bioinspired Hexameric Nickel Catechol-alloxazine Catalyst Combines Metal and Radical Mechanisms for Alkene Hydrosilylation.**
+
+          A. Das, **J. Schleinitz**, L. Karmazin, B. Vincent, N. Le Breton, A. Guenet, S. Choua, L. Grimaud, M. Desage El Murr
+          *submitted*
+
           [3] **A hybrid bioinspired catechol-alloxazine triangular nickel complex stabilizing protons and electrons**
           
           A. Das, H. Jobelius, **J. Schleinitz**, S. Gamboa-Ramírez, G. Creste, G. Kervern, J. Raya, N. Le Breton, A. Guenet, Z. Boubegtiten, L. Grimaud, M. Orio, G. Rogez, P. Hellwig, S. Choua, S. Ferlay, M. Desage-El Murr  
