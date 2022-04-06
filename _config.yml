@@ -236,7 +236,13 @@ content:
        # sub_title: BSc Computer Science
        # quote: >
        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraph
+          [6] **A single bioinspired hexameric nickel catechol-alloxazine catalyst combines metal and radical mechanisms for alkene hydrosilylation**
+
+          A. Das, **J. Schleinitz**, L. Karmazin, B. Vincent, N. Le Breton, G. Rogez, A. Guenet, S. Choua, L. Grimaud, M. Desage-El Murr.
+
+          *Chem. Eur. J.*. [https://doi.org/10.1002/chem.202200596](https://chemistry-europe.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fchem.202200596#:~:text=https%3A//doi.org/10.1002/chem.202200596)
+
           [5] **Can Organic Chemistry Literature Enable Machine Learning Yield Prediction ?**
 
           **J. Schleinitz**, M. Langevin, Y. Smail, B. Wehnert, L. Grimaud and R. Vuilleumier
