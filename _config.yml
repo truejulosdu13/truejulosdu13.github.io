@@ -9,7 +9,7 @@ google_site_verification: CoIqeZeNoqA_Ggf3RbR3XPdg3jLHzjsdP-yrwMCJmcA
 version: 2
 
 # Dark Mode (true/false/never)
-darkmode: false
+# darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -38,5 +38,5 @@ include: ['_pages']
 kramdown:
   input: GFM
   
-plugins:
- - jekyll-seo-tag
+#plugins:
+# - jekyll-seo-tag
