@@ -7,5 +7,5 @@
 #
 layout: default
 title: Publications
-permalink: /publications/
+permalink: julesschleinitz.github.io/publications/
 ---
