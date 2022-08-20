@@ -1,4 +1,9 @@
 # Site
+title: Jules Schleinitz
+email: jules.schleinitz@ens.psl.eu
+description: >- # this means to ignore newlines until "baseurl:"
+  A guide to getting started with Jekyll.
+  
 # repository: truejulosdu13/julesschleinitz.github.io
 # favicon: images/android-chrome-512x512.png
 baseurl: "julesschleinitz.github.io"
