@@ -33,8 +33,10 @@ remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
-
 include: ['_pages']
 
+kramdown:
+  input: GFM
+  
 plugins:
  - jekyll-seo-tag
