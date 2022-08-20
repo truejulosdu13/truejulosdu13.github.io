@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 # repository: truejulosdu13/julesschleinitz.github.io
 # favicon: images/android-chrome-512x512.png
-baseurl: "julesschleinitz.github.io"
+baseurl: ""
 url: https://truejulosdu13.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: truejulosdu13.github.io
 google_site_verification: CoIqeZeNoqA_Ggf3RbR3XPdg3jLHzjsdP-yrwMCJmcA
