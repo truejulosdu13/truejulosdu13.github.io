@@ -7,5 +7,5 @@
 #
 layout: default
 title: About
-permalink: /about/
+permalink: julesschleinitz.github.io/about/
 ---
