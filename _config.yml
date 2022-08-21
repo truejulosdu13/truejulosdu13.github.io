@@ -1,47 +1,43 @@
-# Site
-title: Jules Schleinitz
-email: jules.schleinitz@ens.psl.eu
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Dr. Esther Heid
+email: eheid@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A guide to getting started with Jekyll.
-  
-# repository: truejulosdu13/julesschleinitz.github.io
-# favicon: images/android-chrome-512x512.png
-baseurl: ""
-url: https://truejulosdu13.github.io/julesschleinitz.github.io # the base hostname & protocol for your site, e.g. http://example.com
-domain: truejulosdu13.github.io/julesschleinitz.github.io
-google_site_verification: CoIqeZeNoqA_Ggf3RbR3XPdg3jLHzjsdP-yrwMCJmcA
-# Content configuration version
-# version: 2
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://hesther.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: hesther.github.io
+twitter_username: 
+github_username:  hesther
 
-# Dark Mode (true/false/never)
-# darkmode: false
-
-# Social links
-# twitter_username: facespics
-github_username:  truejulosdu13
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: julesschleinitz
-linkedin_username: jules-schleinitz-90a5a1161
-# strava_username: 27486196
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-orcid_username: 0000-0001-7116-4772
-
-
-# Build settings
-# remote_theme: sproogen/resume-theme
-
+# Build Settings
 sass:
   sass_dir: _sass
 include: ['_pages']
-
 kramdown:
   input: GFM
   
-#plugins:
-# - jekyll-seo-tag
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

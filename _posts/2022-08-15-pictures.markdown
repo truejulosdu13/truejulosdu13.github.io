@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Where do the pictures come from?"
+date:   2022-08-21 8:00:00 -0400
+categories: general
+---
+
+All pictures on this website were taken by myself and Sam Andre.
+
