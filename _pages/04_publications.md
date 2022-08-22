@@ -4,20 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
-          [5] **Machine Learning Yield Prediction from NiCOlit, a Small-Size Literature Data Set of Nickel Catalyzed C–O Couplings**
-
-          **J. Schleinitz**, M. Langevin, Y. Smail, B. Wehnert,  L. Grimaud, R. Vuilleumier.
-
-          *J. Am. Chem. Soc.* **2022**, 144, 32, 14722–14730*. [https://pubs.acs.org/10.1021/jacs.2c05302](https://pubs.acs.org/doi/abs/10.1021/jacs.2c05302)
+* [5] **Machine Learning Yield Prediction from NiCOlit, a Small-Size Literature Data Set of Nickel Catalyzed C–O Couplings**
+**J. Schleinitz**, M. Langevin, Y. Smail, B. Wehnert,  L. Grimaud, R. Vuilleumier.
+*J. Am. Chem. Soc.* **2022**, 144, 32, 14722–14730*. [https://pubs.acs.org/10.1021/jacs.2c05302](https://pubs.acs.org/doi/abs/10.1021/jacs.2c05302)
 
 
-          [4] **A single bioinspired hexameric nickel catechol-alloxazine catalyst combines metal and radical mechanisms for alkene hydrosilylation**
+* [4] **A single bioinspired hexameric nickel catechol-alloxazine catalyst combines metal and radical mechanisms for alkene hydrosilylation**
+A. Das, **J. Schleinitz**, L. Karmazin, B. Vincent, N. Le Breton, G. Rogez, A. Guenet, S. Choua, L. Grimaud, M. Desage-El Murr.
+*Chem. Eur. J.*. [https://doi.org/10.1002/chem.202200596](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202200596)
 
-          A. Das, **J. Schleinitz**, L. Karmazin, B. Vincent, N. Le Breton, G. Rogez, A. Guenet, S. Choua, L. Grimaud, M. Desage-El Murr.
-
-          *Chem. Eur. J.*. [https://doi.org/10.1002/chem.202200596](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202200596)
-
-          [3] **A hybrid bioinspired catechol-alloxazine triangular nickel complex stabilizing protons and electrons**
+* [3] **A hybrid bioinspired catechol-alloxazine triangular nickel complex stabilizing protons and electrons**
 
           A. Das, H. Jobelius, **J. Schleinitz**, S. Gamboa-Ramírez, G. Creste, G. Kervern, J. Raya, N. Le Breton, A. Guenet, Z. Boubegtiten, L. Grimaud, M. Orio, G. Rogez, P. Hellwig, S. Choua, S. Ferlay, M. Desage-El Murr
 
