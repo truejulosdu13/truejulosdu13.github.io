@@ -4,8 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
+<center>
 ***Organic Chemistry - Lessons***
+</center>
+
 Cours :
+
 - [Nomenclature en chimie organique](/assets/organic_chemistry_lessons/Cours1.pdf)
 - [Stéréochimie](/assets/organic_chemistry_lessons/Cours2.pdf), [Fiche Résumé](/assets/organic_chemistry_lessons/take_away_cours_1.pdf)
 - [Substitution nucléophile bimoléculaire - **S<sub>N</sub>2**](/assets/organic_chemistry_lessons/Cours3.pdf), [Fiche Résumé](/assets/organic_chemistry_lessons/take_away_cours_2.pdf)
@@ -40,8 +44,9 @@ Devoir Maison et Corrigés :
 - [DM_3](/assets/organic_chemistry_exercices/DM3_phys.pdf), [Corrigé](/assets/organic_chemistry_exercices/DM3_phys_corr.pdf)
 - [DM_4](/assets/organic_chemistry_exercices/DM4_phys.pdf), [Corrigé](/assets/organic_chemistry_exercices/DM4_phys_corr.pdf)
 
-
+<center>
 ***Electrochemistry***
+</center>
 
 Tutorials  :
 - [Mesure du potentiel de charge nulle](/assets/electrochemistry_tutorials/TD_1_jules.pdf), [Corrigé](/assets/electrochemistry_tutorials/TD_1_jules_corrige.pdf)
