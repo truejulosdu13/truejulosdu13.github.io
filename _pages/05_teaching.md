@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 <center>
-***Organic Chemistry - Lessons***
+<b>Organic Chemistry - Lessons</b>
 </center>
 
 Cours :
@@ -45,7 +45,7 @@ Devoir Maison et Corrigés :
 - [DM_4](/assets/organic_chemistry_exercices/DM4_phys.pdf), [Corrigé](/assets/organic_chemistry_exercices/DM4_phys_corr.pdf)
 
 <center>
-***Electrochemistry***
+<b>Electrochemistry</b>
 </center>
 
 Tutorials  :
