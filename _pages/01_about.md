@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /julesschleinitz.github.io/
 ---
 
 <p align="center">
