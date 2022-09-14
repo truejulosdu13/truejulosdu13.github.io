@@ -5,5 +5,5 @@ date:   2022-08-21 8:00:00 -0400
 categories: general
 ---
 
-All pictures on this website were taken by myself and Sam Andre.
+All pictures on this website were taken by myself and [Sam Andre](https://samandre.com/) in Corsica and the French Alps.
 
