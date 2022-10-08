@@ -6,7 +6,7 @@ permalink: /publications/
 
 * [5] **Machine Learning Yield Prediction from NiCOlit, a Small-Size Literature Data Set of Nickel Catalyzed C–O Couplings**
 J. Schleinitz, M. Langevin, Y. Smail, B. Wehnert,  L. Grimaud, R. Vuilleumier.
-*J. Am. Chem. Soc.* **2022**, 144, 32, 14722–14730. [https://pubs.acs.org/10.1021/jacs.2c05302](https://pubs.acs.org/doi/abs/10.1021/jacs.2c05302)
+*J. Am. Chem. Soc.* **2022**, 144, 32, 14722–14730. [https://pubs.acs.org/10.1021/jacs.2c05302](https://pubs.acs.org/doi/abs/10.1021/jacs.2c05302) [PDF](https://hal.sorbonne-universite.fr/hal-03790865/document)
 
 * [4] **A single bioinspired hexameric nickel catechol-alloxazine catalyst combines metal and radical mechanisms for alkene hydrosilylation**
 A. Das, J. Schleinitz, L. Karmazin, B. Vincent, N. Le Breton, G. Rogez, A. Guenet, S. Choua, L. Grimaud, M. Desage-El Murr.
