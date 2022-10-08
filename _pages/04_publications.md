@@ -14,7 +14,7 @@ A. Das, J. Schleinitz, L. Karmazin, B. Vincent, N. Le Breton, G. Rogez, A. Guene
 
 * [3] **A hybrid bioinspired catechol-alloxazine triangular nickel complex stabilizing protons and electrons**
 A. Das, H. Jobelius, J. Schleinitz, S. Gamboa-Ramírez, G. Creste, G. Kervern, J. Raya, N. Le Breton, A. Guenet, Z. Boubegtiten, L. Grimaud, M. Orio, G. Rogez, P. Hellwig, S. Choua, S. Ferlay, M. Desage-El Murr
-*Inorganic Chemistry Frontiers*, **2021**, 8, 5286-5298. [DOI: 10.1039/D1QI01131F](https://pubs.rsc.org/en/content/articlelanding/2021/qi/d1qi01131f/unauth), PDF
+*Inorganic Chemistry Frontiers*, **2021**, 8, 5286-5298. [DOI: 10.1039/D1QI01131F](https://pubs.rsc.org/en/content/articlelanding/2021/qi/d1qi01131f/unauth)
 
 * [2] **Metal-Free Deoxygenation of Amine N-Oxides: Synthetic and Mechanistic Studies**
 W. Lecroq, J. Schleinitz, M. Billoue, A. Perfetto, A-C. Gaumont, J. Lalevée, I. Ciofini, L. Grimaud, S. Lakhdar
