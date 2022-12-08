@@ -4,8 +4,9 @@ title: About
 permalink: /julesschleinitz.github.io/
 ---
 
-Hi, my name is Jules and I'm a Ph.D. student in chemistry working at [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris under the supervision of [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/). I use a combination of experimental and theoretical tools to understand chemical reaction pathways. Among them **XRD**, **UV-visible**, **IR**, **EPR**, and **NMR** spectroscopies as well as **electrochemistry** and theoretical tools: **DFT** and **Machine Learning**.
-  Alongside with my research activities, I spend half of my time teaching chemistry at Ecole Normale Supérieure (Organic chemistry: lessons, electrochemistry: tutorials and experimental sessions, experimental projects for bachelor and master students.).
+Jules is currently a postdoctoral scholar at CalTech in the group of [Sarah E. Reisman](http://reismangroup.caltech.edu/) and a current member of the NSF [Center for Computer Assisted Synthesis](https://ccas.nd.edu/). His research focuses on the development of computational and machine learning tools to organic synthesis planning through mechanistic understanding.
+Jules graduated in 2022 from the [Ecole Normale Supérieure](https://www.chimie.ens.fr/en/chemistry-department-of-ens/) in Paris. His PhD intitled "Machine learnong and Mechanistic Analysis" was supervised by [Laurence Grimaud](https://www.chimie.ens.fr/grimaud/current-team/team-leaders/laurence-grimaud/).
+  Alongside with his research activities, Jules spent half of his PhD teaching chemistry at Ecole Normale Supérieure (Organic chemistry: lessons, electrochemistry: tutorials and experimental sessions, experimental projects for bachelor and master students.).
 
 <p align="center">
 <img src="../../../../assets/images/photo_portrait.jpg" width="50%">
