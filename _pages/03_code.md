@@ -8,6 +8,7 @@ permalink: /code/
 * NiCOlit: [https://github.com/truejulosdu13/NiCOlit](https://github.com/truejulosdu13/NiCOlit)
 
 **Links to Web Apps or GitHub pages I enjoyed:**
+* Greg Landrum RDKit-blog: [https://greglandrum.github.io/rdkit-blog/](https://greglandrum.github.io/rdkit-blog/)
 * Martin Vérot toolkit: [http://perso.ens-lyon.fr/martin.verot/tools.php](http://perso.ens-lyon.fr/martin.verot/tools.php)
 * Peter Ertl website: [https://peter-ertl.com/molecular/index.html](https://peter-ertl.com/molecular/index.html)
 * The Chemiscope: [https://chemiscope.org/](https://chemiscope.org/)
