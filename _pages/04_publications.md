@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+* [6] **Assessing the Extent of Potential Inversion by Cyclic Voltammetry: Theory, Pitfalls, and Application to a Nickel Complex with Redox-Active Iminosemiquinone Ligands**
+C. Hessin, J. Schleinitz, N. Le Breton, S. Choua, L. Grimaud, V. Fourmond, M. Desage-El Murr, and C. Léger
+*Inorg. Chem.* **2023**, XXXX, XXX, XXX-XXX. [https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.2c04365](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.2c04365)
+
 * [5] **Machine Learning Yield Prediction from NiCOlit, a Small-Size Literature Data Set of Nickel Catalyzed C–O Couplings**
 J. Schleinitz, M. Langevin, Y. Smail, B. Wehnert,  L. Grimaud, R. Vuilleumier.
 *J. Am. Chem. Soc.* **2022**, 144, 32, 14722–14730. [https://pubs.acs.org/10.1021/jacs.2c05302](https://pubs.acs.org/doi/abs/10.1021/jacs.2c05302) [PDF](https://hal.sorbonne-universite.fr/hal-03790865/document)
