@@ -9,7 +9,7 @@ permalink: /code/
 
 **Links to Web Apps or GitHub pages I enjoyed:**
 
-1. Chemistry
+Chemistry
 
 * Greg Landrum RDKit-blog: [https://greglandrum.github.io/rdkit-blog/](https://greglandrum.github.io/rdkit-blog/)
 * Andrew D. White : Deep Learning For Molecules and Materials: [https://dmol.pub/index.html](https://dmol.pub/index.html)
@@ -19,6 +19,6 @@ permalink: /code/
 * Cheminfo.org  : [https://www.cheminfo.org/](https://www.cheminfo.org/)
 * ReactionMap: [http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py](http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py)
 
-2. Maths/Data-science:
+Maths/Data-science:
 
 * Understanding UMAP: [https://pair-code.github.io/understanding-umap/](https://pair-code.github.io/understanding-umap/)
