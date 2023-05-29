@@ -13,13 +13,14 @@ permalink: /code/
 
 Chemistry:
 
-* Greg Landrum RDKit-blog: [https://greglandrum.github.io/rdkit-blog/](https://greglandrum.github.io/rdkit-blog/)
+* Greg Landrum RDKit-blog : [https://greglandrum.github.io/rdkit-blog/](https://greglandrum.github.io/rdkit-blog/)
 * Andrew D. White : Deep Learning For Molecules and Materials: [https://dmol.pub/index.html](https://dmol.pub/index.html)
-* Martin Vérot toolkit: [http://perso.ens-lyon.fr/martin.verot/tools.php](http://perso.ens-lyon.fr/martin.verot/tools.php)
-* Peter Ertl website: [https://peter-ertl.com/molecular/index.html](https://peter-ertl.com/molecular/index.html)
-* The Chemiscope: [https://chemiscope.org/](https://chemiscope.org/)
-* Cheminfo.org  : [https://www.cheminfo.org/](https://www.cheminfo.org/)
-* ReactionMap: [http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py](http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py)
+* Martin Vérot toolkit : [http://perso.ens-lyon.fr/martin.verot/tools.php](http://perso.ens-lyon.fr/martin.verot/tools.php)
+* Peter Ertl website : [https://peter-ertl.com/molecular/index.html](https://peter-ertl.com/molecular/index.html)
+* The Chemiscope : [https://chemiscope.org/](https://chemiscope.org/)
+* Cheminfo.org : [https://www.cheminfo.org/](https://www.cheminfo.org/)
+* ReactionMap : [http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py](http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py)
+* Nessa Carson website for Coding in Chemistry : [https://supersciencegrl.co.uk/links/#Coding](https://supersciencegrl.co.uk/links/#Coding)
 
 ---
 
@@ -31,5 +32,5 @@ Maths/Data-science:
 
 Open-source ressources and documentation:
 
-* Molecular modeling applications: [https://opensourcemolecularmodeling.github.io/#helper-applications](https://opensourcemolecularmodeling.github.io/#helper-applications)
-
+* Molecular modeling applications: [https://opensourcemolecularmodeling.github.io/#helper-applications](https://opensourcemiolecularmodeling.github.io/#helper-applications)
+* Conferences summary by Nessa Carson: [https://supersciencegrl.co.uk/conferences](https://supersciencegrl.co.uk/conferences)
