@@ -24,9 +24,10 @@ Chemistry:
 
 ---
 
-Maths/Data-science:
+Computer Science:
 
 * Understanding UMAP: [https://pair-code.github.io/understanding-umap/](https://pair-code.github.io/understanding-umap/)
+* Free online AI-courses by Piotr Skalski : [https://github.com/SkalskiP/courses](https://github.com/SkalskiP/courses)
 
 ---
 
