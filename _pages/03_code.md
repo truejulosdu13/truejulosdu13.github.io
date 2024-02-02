@@ -11,7 +11,7 @@ permalink: /code/
 
 **Links to Web Apps or GitHub pages I enjoyed:**
 
-Chemistry:
+Cheminformatics:
 
 * Greg Landrum RDKit-blog : [https://greglandrum.github.io/rdkit-blog/](https://greglandrum.github.io/rdkit-blog/)
 * Andrew D. White : Deep Learning For Molecules and Materials: [https://dmol.pub/index.html](https://dmol.pub/index.html)
@@ -35,3 +35,10 @@ Open-source ressources and documentation:
 
 * Molecular modeling applications: [https://opensourcemolecularmodeling.github.io/#helper-applications](https://opensourcemiolecularmodeling.github.io/#helper-applications)
 * Conferences summary by Nessa Carson: [https://supersciencegrl.co.uk/conferences](https://supersciencegrl.co.uk/conferences)
+
+---
+
+Chemistry:
+
+* Bond dissociation energies: [UCSB website](https://labs.chem.ucsb.edu/zakarian/armen/11---bonddissociationenergy.pdf)
+
