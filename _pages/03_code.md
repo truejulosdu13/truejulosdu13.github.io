@@ -40,5 +40,6 @@ Open-source ressources and documentation:
 
 Chemistry:
 
+* Visualization of molecular orbitals: [OrbiMol](https://www.lct.jussieu.fr/pagesperso/orbimol/fr/index-fr.shtml#)
 * Bond dissociation energies: [UCSB website](https://labs.chem.ucsb.edu/zakarian/armen/11---bonddissociationenergy.pdf)
 
