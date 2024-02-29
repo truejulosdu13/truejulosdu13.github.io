@@ -22,6 +22,12 @@ Cheminformatics:
 * ReactionMap : [http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py](http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py)
 * Nessa Carson website for Coding in Chemistry : [https://supersciencegrl.co.uk/links/#Coding](https://supersciencegrl.co.uk/links/#Coding)
 
+
+Visualizing Chemical Space:
+
+* Molplotly [tutorial](https://www.valencekjell.com/posts/2022-08-13-interactive/) by Kjell Jorner.
+* [Chemplot](https://chemplot.readthedocs.io/en/latest/user_manual/visualize_plots.html)
+ 
 ---
 
 Computer Science:
