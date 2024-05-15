@@ -4,6 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+* [8] **Site‐Selective Radical Aromatic C–H Functionalization of Alloxazine and Flavin through Ground‐State Single Electron Transfer**
+A. Das, O. Charpentier, C. Hessin, J. Schleinitz, D. Pianca, N. Le Breton, S. Choua, L. Grimaud, C. Gourlaouen, M. Desage-El Murr
+*Angewandte Chemie International Edition* **2024**, e202403417. [https://doi.org/10.1002/ange.202403417](https://doi.org/10.1002/ange.202403417)
+
+* [7] **Dataset Design for Building Models of Chemical Reactivity**
+P. Raghavan, B. C. Haas, M. E. Ruos, J. Schleinitz, A. G. Doyle, S. E. Reisman, M. S. Sigman, and C. W. Coley
+*ACS Cent. Sci.* **2023**, 9, 12, 2196-2204. [https://doi.org/10.1021/acscentsci.3c01163](https://doi.org/10.1021/acscentsci.3c01163)
+
 * [6] **Assessing the Extent of Potential Inversion by Cyclic Voltammetry: Theory, Pitfalls, and Application to a Nickel Complex with Redox-Active Iminosemiquinone Ligands**
 C. Hessin, J. Schleinitz, N. Le Breton, S. Choua, L. Grimaud, V. Fourmond, M. Desage-El Murr, and C. Léger
 *Inorg. Chem.* **2023**, XXXX, XXX, XXX-XXX. [https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.2c04365](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.2c04365)
