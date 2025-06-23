@@ -44,3 +44,5 @@ W. Lecroq, J. Schleinitz, M. Billoue, A. Perfetto, A-C. Gaumont, J. Lalevée, I.
 J. Moutet, J. Schleinitz, L. La Droitte, M. Tricoire, F. Pointillart, F. Gendron, T. Simler, C. Clavaguéra, B. Le Guennic, O. Cador, G. Nocton
 *Angewandte Chemie International Edition*, **2021**, 60 (11), 6042-6046. [DOI: 10.1002/anie.202015428](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202015428), [PDF](https://hal.archives-ouvertes.fr/hal-03163652/document)
 
+Ph.D. manuscript available [here](https://theses.hal.science/tel-05018662v1).
+
