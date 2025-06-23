@@ -4,6 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+* [10] **Designing Target-specific Data Sets for Regioselectivity Predictions on Complex Substrates**
+J. Schleinitz, A. Carretero-Cerdán, A. Gurajapu, Y. Harnik, G. Lee, A. Pandey, A. Milo, S. E. Reisman
+*J. Am. Chem. Soc.* **2025**, 147, 9, 7476-7484, [https://pubs.acs.org/doi/full/10.1021/jacs.4c15902](https://pubs.acs.org/doi/full/10.1021/jacs.4c15902)
+
+* [9] **Oxidative Addition of Nitro-Perylenediimide onto Palladium (0): A Theoretical and Experimental Study**
+J. Schleinitz, C. Chinchilla-Garzon, A. Perfetto, E. Escoudé, A. Makhloutah, G. Gontard, M. R. Vitale, A. Goujon, F-X. Felpin, L. binet, I. Ciofini, P. Hudhomme, L. Grimaud
+*Organometallics* **2024**, 44, 1, 29-35 [https://pubs.acs.org/doi/full/10.1021/acs.organomet.4c00326](https://pubs.acs.org/doi/full/10.1021/acs.organomet.4c00326)
+
 * [8] **Site‐Selective Radical Aromatic C–H Functionalization of Alloxazine and Flavin through Ground‐State Single Electron Transfer**
 A. Das, O. Charpentier, C. Hessin, J. Schleinitz, D. Pianca, N. Le Breton, S. Choua, L. Grimaud, C. Gourlaouen, M. Desage-El Murr
 *Angewandte Chemie International Edition* **2024**, e202403417. [https://doi.org/10.1002/ange.202403417](https://doi.org/10.1002/ange.202403417)
