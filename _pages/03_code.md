@@ -4,58 +4,62 @@ title: Code
 permalink: /code/
 ---
 
-**My Code**
 
-* NiCOlit: [https://github.com/truejulosdu13/NiCOlit](https://github.com/truejulosdu13/NiCOlit)
+This page contains links to the code that supports my publications as well as a set of links I find useful, they are more or less organized.
 
-* Target Specific Dataset Design: [https://github.com/ReismanLab/regio_dataset_design](https://github.com/ReismanLab/regio_dataset_design)
+
+### Repository supporting publications: 
+
+1. NiCOlit: [https://github.com/truejulosdu13/NiCOlit](https://github.com/truejulosdu13/NiCOlit){:target="_blank" rel="noopener noreferrer"}
+
+2. Target Specific Dataset Design: [https://github.com/ReismanLab/regio_dataset_design](https://github.com/ReismanLab/regio_dataset_design){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
-**Links to Web Apps or GitHub pages I enjoyed:**
+## Links to Web Apps or GitHub pages I enjoyed:
 
-Cheminformatics:
+### Cheminformatics:
 
-* Greg Landrum RDKit-blog : [https://greglandrum.github.io/rdkit-blog/](https://greglandrum.github.io/rdkit-blog/)
-* Martin Vérot toolkit : [http://perso.ens-lyon.fr/martin.verot/tools.php](http://perso.ens-lyon.fr/martin.verot/tools.php)
-* Peter Ertl website : [https://peter-ertl.com/molecular/index.html](https://peter-ertl.com/molecular/index.html)
-* The Chemiscope : [https://chemiscope.org/](https://chemiscope.org/)
-* Cheminfo.org : [https://www.cheminfo.org/](https://www.cheminfo.org/)
-* ReactionMap : [http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py](http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py)
-* Nessa Carson website for Coding in Chemistry : [https://supersciencegrl.co.uk/links/#Coding](https://supersciencegrl.co.uk/links/#Coding)
- 
----
-
-Visualizing Chemical Space:
-
-* Molplotly [tutorial](https://www.valencekjell.com/posts/2022-08-13-interactive/) by Kjell Jorner.
-* [Chemplot](https://chemplot.readthedocs.io/en/latest/user_manual/visualize_plots.html)
+* RDKit-blog (Greg Landrum) : [https://greglandrum.github.io/rdkit-blog/](https://greglandrum.github.io/rdkit-blog/){:target="_blank" rel="noopener noreferrer"}
+* SMILES for beginners : [https://www.cheminfo.org/](https://www.cheminfo.org/){:target="_blank" rel="noopener noreferrer"}
+* RXNSMILES mapper App : [http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py](http://cdb.ics.uci.edu/cgibin/reactionmap/ReactionMapWeb.py){:target="_blank" rel="noopener noreferrer"}
+* Coding in Chemistry (Nessa Carson) : [https://supersciencegrl.co.uk/links/#Coding](https://supersciencegrl.co.uk/links/#Coding){:target="_blank" rel="noopener noreferrer"}
+* Peter Ertl website : [https://peter-ertl.com/molecular/index.html](https://peter-ertl.com/molecular/index.html){:target="_blank" rel="noopener noreferrer"}
+* Chemistry Toolkit (Martin Vérot) : [http://perso.ens-lyon.fr/martin.verot/tools.php](http://perso.ens-lyon.fr/martin.verot/tools.php){:target="_blank" rel="noopener noreferrer"}
 * The Chemiscope : [https://chemiscope.org/](https://chemiscope.org/)
  
 ---
 
-Books and Tutorials for Machine Learning in Chemistry:
+### Visualizing Chemical Space:
 
-* Andrew D. White : Deep Learning For Molecules and Materials: [https://dmol.pub/index.html](https://dmol.pub/index.html)
+* Molplotly (Kjell Jorner) :[tutorial](https://www.valencekjell.com/posts/2022-08-13-interactive/).
+* [Chemplot](https://chemplot.readthedocs.io/en/latest/user_manual/visualize_plots.html){:target="_blank" rel="noopener noreferrer"}
+* The Chemiscope : [https://chemiscope.org/](https://chemiscope.org/){:target="_blank" rel="noopener noreferrer"}
+ 
+---
+
+### Books and Tutorials for Machine Learning in Chemistry:
+
+* Deep Learning For Molecules and Materials (Andrew D. White) : [https://dmol.pub/index.html](https://dmol.pub/index.html)
 * Data Chemist Handbook : [https://data-chemist-handbook.github.io/](https://data-chemist-handbook.github.io/) 
  
 ---
 
-Computer Science:
+### More Computer Science Oriented:
 
 * Understanding UMAP: [https://pair-code.github.io/understanding-umap/](https://pair-code.github.io/understanding-umap/)
-* Free online AI-courses by Piotr Skalski : [https://github.com/SkalskiP/courses](https://github.com/SkalskiP/courses)
+* Free online AI-courses (Piotr Skalski) : [https://github.com/SkalskiP/courses](https://github.com/SkalskiP/courses)
 
 ---
 
-Open-source ressources and documentation:
+### Open-source ressources and documentation:
 
 * Molecular modeling applications: [https://opensourcemolecularmodeling.github.io/#helper-applications](https://opensourcemiolecularmodeling.github.io/#helper-applications)
 * Conferences summary by Nessa Carson: [https://supersciencegrl.co.uk/conferences](https://supersciencegrl.co.uk/conferences)
 
 ---
 
-Chemistry:
+### Chemistry Data / Lesson Ressources:
 
 * Visualization of molecular orbitals: [OrbiMol](https://www.lct.jussieu.fr/pagesperso/orbimol/fr/index-fr.shtml#)
 * Bond dissociation energies: [UCSB website](https://labs.chem.ucsb.edu/zakarian/armen/11---bonddissociationenergy.pdf)
