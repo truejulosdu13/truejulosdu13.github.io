@@ -11,7 +11,7 @@ I studied Chemistry at the the [Ecole Normale Supérieure](https://www.chimie.en
 Alongside with my research activities, I spent half of my Ph. D. teaching chemistry at Ecole Normale Supérieure. Organic chemistry lessons, electrochemistry tutorials and experimental sessions, most of the lesson materials are available [here](https://truejulosdu13.github.io/teaching/){:target="_blank" rel="noopener noreferrer"}.
 
 <p align="center">
-<img src="../../../../assets/images/photo_portrait.jpg" width="50%">
+<img src="../../../../assets/images/photo_portrait.jpg" width="30%">
 </p>
 
 
