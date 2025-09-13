@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research_bu/
 ---
 
 * <b> Machine Learning for Reaction Yield Prediction on Literature Data </b>
