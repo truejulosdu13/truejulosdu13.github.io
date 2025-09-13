@@ -17,11 +17,7 @@ permalink: /teaching/
 
 ---
 
-<center>
-
 ## Organic Chemistry - Lessons {#organic-chemistry---lessons}
-
-</center>
 
 ### Cours: {#cours}
 
@@ -62,13 +58,9 @@ permalink: /teaching/
 - [DM_4](/assets/organic_chemistry_exercices/DM4_phys.pdf){:target="_blank" rel="noopener noreferrer"}, [Corrigé](/assets/organic_chemistry_exercices/DM4_phys_corr.pdf){:target="_blank" rel="noopener noreferrer"}
 
 ---
----
-
-<center>
 
 ## Electrochemistry {#electrochemistry}
 
-</center>
 
 ### Travaux Dirigés: {#tutorials}
 
