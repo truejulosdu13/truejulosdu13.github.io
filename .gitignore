@@ -1,1 +1,10 @@
 *~
+
+# macOS metadata
+.DS_Store
+
+# Local editor settings
+.vscode/
+
+# Jekyll build output
+_site/
