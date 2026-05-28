@@ -96,12 +96,57 @@ aside {
 						color: $link-hover-color;
 					}
 				}
+
+				&.has-dropdown {
+					.submenu {
+						display: none;
+						position: absolute;
+						top: 100%;
+						left: 0;
+						min-width: 220px;
+						background: #fff;
+						border: 1px solid lighten($light, 30%);
+						box-shadow: 0px 6px 16px RGBA(4, 25, 54, .12);
+						z-index: 5;
+
+						li {
+							float: none;
+
+							a {
+								padding: 10px 15px;
+								white-space: nowrap;
+							}
+						}
+					}
+
+					&:hover .submenu,
+					&:focus-within .submenu {
+						display: block;
+					}
+				}
 			}
 		}
 		&:after {
 			content: '';
 			display: table;
 			clear: both;
+		}
+	}
+}
+
+@media (max-width: 768px) {
+	aside {
+		nav {
+			ul {
+				li.has-dropdown {
+					.submenu {
+						position: static;
+						min-width: 0;
+						border-top: 0;
+						box-shadow: none;
+					}
+				}
+			}
 		}
 	}
 }

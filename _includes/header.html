@@ -2,11 +2,22 @@
 	<div class="container">
 		<nav>
 			<ul>
-				{% for page in site.pages %} {% if page.title %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %} {% endfor %}
-			</ul>
-			</li>
+				{% for page in site.pages %}
+					{% if page.title and page.nav_exclude != true %}
+						{% if page.title == 'Teaching' %}
+							<li class="has-dropdown">
+								<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+								<ul class="submenu">
+									<li><a href="{{ '/teaching/chimie-organique/' | prepend: site.baseurl }}">Chimie Organique</a></li>
+									<li><a href="{{ '/teaching/electrochimie/' | prepend: site.baseurl }}">Electrochimie</a></li>
+									<li><a href="{{ '/teaching/ml-bootcamp/' | prepend: site.baseurl }}">ML Bootcamp</a></li>
+								</ul>
+							</li>
+						{% else %}
+							<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+						{% endif %}
+					{% endif %}
+				{% endfor %}
 			</ul>
 		</nav>
 	</div>
