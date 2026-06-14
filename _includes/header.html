@@ -6,11 +6,12 @@
 					{% if page.title and page.nav_exclude != true %}
 						{% if page.title == 'Teaching' %}
 							<li class="has-dropdown">
-								<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+								<a class="teaching-trigger" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
 								<ul class="submenu">
+									<li><a href="{{ '/teaching/' | prepend: site.baseurl }}">Teaching Overview</a></li>
 									<li><a href="{{ '/teaching/chimie-organique/' | prepend: site.baseurl }}">Chimie Organique</a></li>
 									<li><a href="{{ '/teaching/electrochimie/' | prepend: site.baseurl }}">Electrochimie</a></li>
-									<li><a href="{{ '/teaching/ml-bootcamp/' | prepend: site.baseurl }}">ML Bootcamp</a></li>
+									<li><a href="https://truejulosdu13.github.io/ai4chemistry-bootcamp/">ML Bootcamp</a></li>
 								</ul>
 							</li>
 						{% else %}
@@ -22,6 +23,37 @@
 		</nav>
 	</div>
 </aside>
+
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		var dropdown = document.querySelector('aside .has-dropdown');
+		if (!dropdown) {
+			return;
+		}
+
+		var trigger = dropdown.querySelector('.teaching-trigger');
+		if (!trigger) {
+			return;
+		}
+
+		trigger.addEventListener('click', function(event) {
+			event.preventDefault();
+			dropdown.classList.toggle('is-open');
+		});
+
+		document.addEventListener('click', function(event) {
+			if (!dropdown.contains(event.target)) {
+				dropdown.classList.remove('is-open');
+			}
+		});
+
+		document.addEventListener('keydown', function(event) {
+			if (event.key === 'Escape') {
+				dropdown.classList.remove('is-open');
+			}
+		});
+	});
+</script>
 
 {% if page.permalink == '/julesschleinitz.github.io/' %}
   <header class='header-about'>

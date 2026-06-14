@@ -119,8 +119,7 @@ aside {
 						}
 					}
 
-					&:hover .submenu,
-					&:focus-within .submenu {
+					&.is-open .submenu {
 						display: block;
 					}
 				}
