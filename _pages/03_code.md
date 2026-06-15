@@ -10,7 +10,7 @@ This page contains links to the code that supports my publications as well as a 
 
 ### Repository supporting publications: 
 
-1. NiCOlit: [https://github.com/truejulosdu13/NiCOlit](https://github.com/truejulosdu13/NiCOlit){:target="_blank" rel="noopener noreferrer"}
+1. NiCOlit: [https://github.com/julschleinitz/NiCOlit](https://github.com/julschleinitz/NiCOlit){:target="_blank" rel="noopener noreferrer"}
 
 2. Target Specific Dataset Design: [https://github.com/ReismanLab/regio_dataset_design](https://github.com/ReismanLab/regio_dataset_design){:target="_blank" rel="noopener noreferrer"}
 

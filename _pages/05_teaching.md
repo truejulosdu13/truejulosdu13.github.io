@@ -10,4 +10,4 @@ Choose a section:
 
 - [Chimie Organique](/teaching/chimie-organique/)
 - [Electrochimie](/teaching/electrochimie/)
-- [ML Bootcamp](https://truejulosdu13.github.io/ai4chemistry-bootcamp/)
+- [ML Bootcamp](https://julschleinitz.github.io/ai4chemistry-bootcamp/)

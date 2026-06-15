@@ -8,10 +8,10 @@ email: jules.schleinitz@ens.psl.eu
 description: >- # this means to ignore newlines until "baseurl:"
   A guide to getting started with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://truejulosdu13.github.io # the base hostname & protocol for your site, e.g. http://example.com
-domain: truejulosdu13.github.io
+url: https://julschleinitz.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: julschleinitz.github.io
 twitter_username: julesschleinitz
-github_username: truejulosdu13
+github_username: julschleinitz
 
 # Build Settings
 sass:
